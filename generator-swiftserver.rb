@@ -3,9 +3,9 @@ require "language/node"
 class GeneratorSwiftserver < Formula
   desc "Generator for Kitura REST webservice servers"
   homepage "https://github.com/IBM-Swift/generator-swiftserver#readme"
-  url "https://registry.npmjs.org/generator-swiftserver/-/generator-swiftserver-3.1.0.tgz"
-  version "3.1.0"
-  sha256 "ccb8e1dcf3d02483fa917e16a586c4c8181f59df807cff4a3f3ec85bc2e15ce3"
+  url "https://registry.npmjs.org/generator-swiftserver/-/generator-swiftserver-4.0.0.tgz"
+  version "4.0.0"
+  sha256 "655ac783951f500714c605b5ac876adecce6d035f66e6f5c300286d1171502b2"
 
   depends_on "node"
 
