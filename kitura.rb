@@ -3,9 +3,9 @@ require "language/node"
 class Kitura < Formula
   desc "Kitura command-line interface"
   homepage "https://github.com/IBM-Swift/kitura-cli#readme"
-  url "https://registry.npmjs.org/kitura-cli/-/kitura-cli-0.0.9.tgz"
-  version "0.0.9"
-  sha256 "87cbbf08dd764ffb89753a396f8151be7d79c6ad0fe8b13fb85d3e5c592e5778"
+  url "https://registry.npmjs.org/kitura-cli/-/kitura-cli-0.0.10.tgz"
+  version "0.0.10"
+  sha256 "8504de7eeca981f22f5b872f61b8698e18a67318db2a65524d4cd2a350b33275"
 
   depends_on "node"
 
